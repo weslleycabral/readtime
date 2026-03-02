@@ -20,7 +20,7 @@ Zero dependencies. Minimal footprint. Production-ready.
 ### CDN (Recommended)
 
 ```html
-<script defer src="https://cdn.jsdelivr.net/gh/SEU_USUARIO/readtime@v0.1.0/dist/readtime.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/gh/weslleycabral/readtime@main/dist/readtime.min.js"></script>
 ```
 
 Use `defer` to prevent render blocking.
