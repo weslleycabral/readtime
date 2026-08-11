@@ -20,6 +20,7 @@ Zero dependencies. Minimal footprint. Production-ready.
 ### CDN (Recommended)
 
 ```html
+<!-- Readtime Library -->
 <script defer src="https://cdn.jsdelivr.net/npm/attr-readtime@1.0.0/dist/readtime.min.js"></script>
 ```
 
