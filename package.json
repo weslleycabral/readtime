@@ -1,5 +1,5 @@
 {
-    "name": "readtime",
+    "name": "attr-readtime",
     "version": "1.0.0",
     "description": "Declarative reading time library using data attributes. No dependencies. Optimized for performance and CMS-driven sites.",
     "main": "dist/readtime.min.js",
