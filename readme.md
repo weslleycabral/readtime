@@ -9,7 +9,7 @@ Zero dependencies. Minimal footprint. Production-ready.
 <div align="center">
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-![CDN](https://img.shields.io/badge/CDN-jsDelivr-blue)
+![CDN](https://img.shields.io/badge/CDN-npm-red)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![Javascript](https://img.shields.io/badge/language-javascript-yellow)
 
@@ -20,7 +20,7 @@ Zero dependencies. Minimal footprint. Production-ready.
 ### CDN (Recommended)
 
 ```html
-<script defer src="https://cdn.jsdelivr.net/gh/weslleycabral/readtime@main/dist/readtime.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/attr-readtime@1.0.0/dist/readtime.min.js"></script>
 ```
 
 Use `defer` to prevent render blocking.
